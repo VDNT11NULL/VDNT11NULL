@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Fake Recognition, Meta Learning, OpenCV, NLP**
+- 🌱 I’m currently learning **Deep Fake Recognition, Privacy preserving ML, DL for ComputerVision, LLMs **
 
 - 👨‍💻 All of my projects are available at [https://vdnt11null.github.io/](https://vdnt11null.github.io/)
 
