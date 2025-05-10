@@ -3,15 +3,19 @@
 <h1 align="center">Hi 👋, I'm Vedant Marodkar</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-A Passionate Data Enthusiast from India
-I'm deeply immersed in AI, specializing in Computer Vision, Privacy-Preserving ML, and Large Language Models. My projects push boundaries, from adversarial purification to real-time vision pipelines, blending research with real-world impact. Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, and more!
+A Passionate Data Enthusiast from India.
+
+I'm deeply immersed in AI, specializing in Computer Vision, Privacy-Preserving ML, and Large Language Models.
+My projects push boundaries, from adversarial purification to real-time vision pipelines, blending research with real-world impact.
+Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, and more!
 🌟 About Me
 
-🌱 Currently Learning: Deep Fake Recognition, Privacy-Preserving ML, Deep Learning for Computer Vision, LLMs
-💻 Projects: Explore my portfolio at vdnt11null.github.io
-💬 Ask Me About: AI advancements, PyTorch, Reinforcement Learning
-📫 Reach Out: vedantmarodkar11@gmail.com
-🌐 Connect: LinkedIn | Twitter
+- 🌱 Currently Learning: Deep Fake Recognition, Privacy-Preserving ML, Deep Learning for Computer Vision, LLMs
+- 💻 Projects: Explore my portfolio at vdnt11null.github.io
+- 💬 Ask Me About: AI advancements, PyTorch, Reinforcement Learning
+- 👨‍💻 All of my projects are available at [https://vdnt11null.github.io/](https://vdnt11null.github.io/)
+- 📫 Reach Out: vedantmarodkar11@gmail.com
+- 🌐 Connect:<a href="https://linkedin.com/in/vedant marodkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant marodkar" height="30" width="40" /></a>
 
 🛠️ Skills & Tools
 <h3 align="left">Languages and Tools:</h3>
