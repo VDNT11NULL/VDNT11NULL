@@ -15,7 +15,7 @@ Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, 
 - 💬 Ask Me About: AI advancements, PyTorch, Reinforcement Learning
 - 👨‍💻 All of my projects are available at [https://vdnt11null.github.io/](https://vdnt11null.github.io/)
 - 📫 Reach Out: vedantmarodkar11@gmail.com
-- 🌐 Connect:<a href="https://linkedin.com/in/vedant marodkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant marodkar" height="30" width="40" /></a>
+- 🌐 Connect:<a href="https://www.linkedin.com/in/vedant-marodkar-0b142b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant marodkar" height="30" width="40" /></a>
 
 🛠️ Skills & Tools
 <h3 align="left">Languages and Tools:</h3>
