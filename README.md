@@ -10,10 +10,9 @@ My projects push boundaries, from adversarial purification to real-time vision p
 Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, and more!
 🌟 About Me
 
-- 🌱 Currently Learning: Deep Fake Recognition, Privacy-Preserving ML, Deep Learning for Computer Vision, LLMs
-- 💻 Projects: Explore my portfolio at vdnt11null.github.io
-- 💬 Ask Me About: AI advancements, PyTorch, Reinforcement Learning
-- 👨‍💻 All of my projects are available at [https://vdnt11null.github.io/](https://vdnt11null.github.io/)
+- 🌱 Currently Learning: Deep Fake Recognition, MLOps, Privacy-Preserving ML, , GEN AI.
+- 💬 Ask Me About: AI advancements, DSA, ML.
+- 👨‍💻 All of my projects are available at my portfolio [https://vdnt11null.github.io/](https://vdnt11null.github.io/)
 - 📫 Reach Out: vedantmarodkar11@gmail.com
 - 🌐 Connect:<a href="https://www.linkedin.com/in/vedant-marodkar-0b142b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant marodkar" height="30" width="40" /></a>
 
