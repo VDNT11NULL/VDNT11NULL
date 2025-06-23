@@ -15,8 +15,6 @@ Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, 
 - 📫 Reach Out: vedantmarodkar11@gmail.com
 - 🌐 Connect:<a href="https://www.linkedin.com/in/vedant-marodkar-0b142b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant marodkar" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vdnt11null&show_icons=true&locale=en&layout=compact" alt="vdnt11null" /></p>
-
 Discover more on my GitHub or Portfolio.
 
 📬 Get in Touch
