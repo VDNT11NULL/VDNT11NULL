@@ -6,6 +6,7 @@
 
 I'm deeply immersed in AI, specializing in Computer Vision, Privacy-Preserving ML, and Large Language Models.
 My projects push boundaries, from adversarial purification to real-time vision pipelines, blending research with real-world impact.
+I try to build pratical AI-based solutions for real-life usecases.
 Dive into my work to explore innovative solutions in PyTorch, Diffusion Models, and more!
 🌟 About Me
 
